@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[hexo]]></title>
+    <url>%2F2019%2F04%2F11%2Fhexo%2F</url>
+    <content type="text"><![CDATA[第一个关于hexo的测试]]></content>
+      <categories>
+        <category>HTML</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[First blog]]></title>
     <url>%2F2019%2F04%2F09%2FFirst-blog%2F</url>
     <content type="text"></content>
